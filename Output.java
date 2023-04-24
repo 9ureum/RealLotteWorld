@@ -1,5 +1,3 @@
-package pkg;
-
 public class Output {
 	InputData inputdata = new InputData();
 	LotteWorldFunction lwf = new LotteWorldFunction();
